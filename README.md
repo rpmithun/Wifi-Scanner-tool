@@ -16,9 +16,11 @@ networks with the following details:
 Key Features:
 
 *Real-time web interface for visualizing network data
+
 *CSV download functionality for offline analysis
 
 Purpose: 
              This project focuses on essential aspects of network reconnaissance, including identifying encryption types and analyzing signal strengths. These are critical skills for penetration testing and network security assessments.
 
 The tool demonstrates the ability to efficiently gather and analyze network data, aiding in overall security evaluation.
+![IMG-20241101-WA0001](https://github.com/user-attachments/assets/298dabbf-3680-4558-bd17-358aac3866e0)
